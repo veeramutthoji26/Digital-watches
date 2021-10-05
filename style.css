@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+.bg-teal{
+    background: linear-gradient(45deg,teal,black);
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 55px;
+}
+.bg-america{
+    background: linear-gradient(45deg,red,black);
+    text-align: center;
+    color: white;
+}
+.bg-china{
+    background: linear-gradient(45deg,gold,black);
+    text-align: center;
+    color: white;
+}
